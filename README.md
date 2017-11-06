@@ -1,4 +1,4 @@
-# krugUtrouglu
+# Circle in triangle/krugUtrouglu
 SR: Ispituje da li je krug u oblasti trougla
 
 EN: Circle in triangle
